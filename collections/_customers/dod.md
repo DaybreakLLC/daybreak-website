@@ -2,8 +2,8 @@
 title: "Defense Services"
 description: "Daybreak delivers innovation, advanced analytics, together with expertise in Defense operational and mission imperatives.
 <br>
-We hyper-accelerate understanding and decisional quality though data analysis, artificial
-intelligence application development, geospatial analysis, and intelligence analysis.  Our team
+We hyper-accelerate understanding and decisional quality though geospatial analysis, data analysis, artificial
+intelligence application development, and intelligence analysis.  Our team
 has deep experience in military and intelligence departments, services, and agencies.
 Daybreak supports customers such as US Army, TRADOC, US Central Command, USASOC, NGA
 and others."

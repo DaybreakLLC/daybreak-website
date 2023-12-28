@@ -2,7 +2,7 @@
 layout: list
 collection: "products"
 title: Products
-description: "A selection of our work and projects."
+description: "Daybreak develops leading edge proprietary geospatial and artificial intelligence / machine learning products."
 permalink: "/products/"
 header_transparent: false
 
