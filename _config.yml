@@ -18,7 +18,7 @@ collections:
     permalink: /:collection/:path/
   customers:
     output: true
-    permalink: /:collection/:path/   
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -52,7 +52,7 @@ defaults:
       path: ""
       type: customers
     values:
-      layout: customer      
+      layout: customer
   - scope:
       path: ""
       type: posts
@@ -112,7 +112,7 @@ footer:
   enable_bottom_menu: true
 
   enable_copyright: true
-  copyright: "© 2022 Daybreak, LLC"
+  copyright: "© 2024 Daybreak, LLC"
 
 contact:
   show_contact_details: true
