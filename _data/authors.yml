@@ -1,7 +1,13 @@
+manik_rath:
+  title: "Manik Rath"
+  name: "Manik Rath"
+  job: "CEO"
+  image: "assets/img/team/manik-rath-photo.jpg"
+  bio: ""
 jason_dalton:
   title: "Jason Dalton"
   name: "Jason Dalton"
-  job: "Founder and CEO"
+  job: "CTO"
   image: "assets/img/team/jason-dalton-photo.jpg"
   bio: ""
 daybreak_team:
@@ -9,7 +15,7 @@ daybreak_team:
   name: "Daybreak Team"
   job: "Staff"
   image: "assets/img/team/kyle-kalwarski-photo.jpg"
-  bio: "" 
+  bio: ""
 anna_harrington:
   title: "Anna Harrington"
   name: "Anna Harrington"
@@ -22,4 +28,3 @@ robert_sellers:
   job: "Environmental Program Manager"
   image: "assets/img/team/anna-harrington-photo.jpg"
   bio: ""
- 
