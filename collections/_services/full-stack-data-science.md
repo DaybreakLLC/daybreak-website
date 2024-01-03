@@ -2,7 +2,7 @@
 title: "Full Stack Data Science"
 description: "We use the best practice CRISP-DM method for investigating hard problems and solving them with data. Our mastery of R and Python means we can dig in and tackle data analytics and data engineering problems quickly with very little barrier to entry."
 date: 2019-10-03
-weight: 1
+weight: 2
 fa_icon: "fab fa-codepen"
 # icon: "assets/img/icons/machinelearning.svg"
 thumbnail: "assets/images/capabilities/paper_charts_next_to_laptop.jpg"
