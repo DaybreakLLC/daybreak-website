@@ -4,13 +4,13 @@ title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about"
-description: "We aim to see the world more clearly through advanced analytics. Our work with energy, environmental, and public safety clients has shown that bringing modern data analytics and visualization into business processes helps everyone make smarter resource allocation decisions."
+description: "We aim to see the world more clearly through advanced analytics and geospatial technologies. Our work with energy, environmental, defense, and public safety clients has shown that bringing modern geospatial data analytics and visualization into business processes helps everyone make smarter resource allocation decisions."
 image: "assets/img/team/team-collage.jpg"
 
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "We aim to see the world more clearly through advanced analytics. Our work with energy, environmental, and public safety clients has shown that bringing modern data analytics and visualization into business processes helps everyone make smarter resource allocation decisions."
+  sub_heading: "We aim to see the world more clearly through advanced analytics and geospatial technologies. Our work with energy, environmental, defense, and public safety clients has shown that bringing modern geospatial data analytics and visualization into business processes helps everyone make smarter resource allocation decisions."
   background_image: "https://source.unsplash.com/VBLHICVh-lI/2000x1125"
   background_image_blend_mode: false
   full_height_mobile: false
@@ -98,7 +98,7 @@ We maintain active memberships and leadership roles in organizations that shape 
     </div>
     <div class="row justify-content-center pt-4">
     <div class="col-md-4  pb-4">
-        <img src="/assets/img/team/steve-cooper-photo.jpg" class="about-team-img rounded-circle img-fluid m-0">
+        <img src="/assets/img/team/joanne-isham-photo.jpg" class="about-team-img rounded-circle img-fluid m-0">
       </div>
        <div class="col-md-8">
         <h3>Joanne Isham</h3> served as Deputy Director of the National Geospatial-Intelligence Agency (NGA). Previously she was the Deputy Director for Science and Technology at the CIA. Joanne has received numerous awards throughout her career including the Department of Defense Distinguished Civilian Service Award, National Intelligence Distinguished Service Medal, the National Intelligence Medal of Achievement, and NGA Distinguished Intelligence Medals. She has served as a senior executive at BAE and on the Boards Directors of Maxar, Polaris Alpha, Tyto Athene, and ANSER
