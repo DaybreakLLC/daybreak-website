@@ -51,10 +51,6 @@ Daybreak is a subcontract awardee or teammate on the following contract vehicles
 <p> </p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="assets/images/contracts/homeland_security.png" alt="">
-<p> </p>
-</div>
-<div class="col-6 col-lg-4 text-center mb-1 mt-1">
 <img class="my-0" src="assets/images/contracts/ites-3s.png" alt="">
 <p> </p>
 </div>
