@@ -31,7 +31,42 @@ Daybreak is a fast moving team of data analytics and computer science experts on
 
 The tools of our trade are typically statistical learning methods, geospatial data modeling and GIS, and interactive data visualization on the web leveraging open source software throughout our process.
 
+## Community
+We are proud to support the charities and organizations that support the communities we care about
 
+<div class="row justify-content-center align-items-center">
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.nationalforests.org/"  target="_blank"><img class="my-0" src="/assets/images/associations/natforestfoundation_logo.png" alt=""></a>
+</div>
+
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.nationalparks.org"  target="_blank"><img class="my-0" src="/assets/images/associations/natparksfoundation_logo.png" alt=""></a>
+</div>
+
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.girlscouts.org"  target="_blank"><img class="my-0" src="/assets/images/associations/gsusa_logo.png" alt=""></a>
+</div>
+
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.scouting.org"  target="_blank"><img class="my-0" src="/assets/images/associations/sbsa_logo.png" alt=""></a>
+</div>
+
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.rhfnow.org"  target="_blank"><img class="my-0" src="/assets/images/associations/rick_herrema_logo.png" alt=""></a>
+</div>
+
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.werockcancer.org"  target="_blank"><img class="my-0" src="/assets/images/associations/werockcancer_logo.png" alt=""></a>
+</div>
+
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.defenseintel.org"  target="_blank"><img class="my-0" src="/assets/images/associations/diamem_logo.png" alt=""></a>
+</div>
+
+<div class="col-4 col-lg-2 text-center mb-1 mt-1">
+<a href="https://www.nats4good.org"  target="_blank"><img class="my-0" src="/assets/images/associations/natsforgood_logo.png" alt=""></a>
+</div>
+</div>
 
 ## Groups And Affiliations
 We maintain active memberships and leadership roles in organizations that shape the future of our industry.
@@ -50,12 +85,7 @@ We maintain active memberships and leadership roles in organizations that shape 
 <a href="https://www.esri.com"  target="_blank"><img class="my-0" src="/assets/img/associations/esri_bronze_logo.png" alt=""></a>
 </div>
 
-<div class="col-4 col-lg-2 text-center mb-1 mt-1">
-<a href="https://www.nvtc.org/"  target="_blank"><img class="my-0" src="/assets/img/associations/nvtc_logo.png" alt=""></a>
 </div>
-
-</div>
-
 
 <section class="about-area grey-bg pt-100">
   <div class=" ">
