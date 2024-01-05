@@ -18,9 +18,7 @@ The table below is a calculator for computing the actual probability of a detect
 
 The probablility updates come from Bayes Theorem, which allows us to update probabilities based on new evidence.
 
-\\[  P\[target \| evidence\] = \frac{P\[evidence \| target\] \times P\[target\]}{P\[evidence\]}
-\\]
-
+![Bayes theorem](https://quicklatex.com/cache3/e1/ql_ff00b918ca0545bcac7a2c46b91f2de1_l3.png)
 
 Click the "Calculate" button to generate probabilities updated through Bayesian reasoning after 10 simulated sensor observations. You can change the values of each observation's Sensor Accuracy and the resulting detection reading from the sensor.
 <html>
