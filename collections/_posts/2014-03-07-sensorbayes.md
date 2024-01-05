@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Bayesian updating for sensor fusion
-date: 2014-03-07
+date: 2024-01-01
 authors: ["Jason Dalton"]
 folder: blog/assets/2014-03-07-sensorbayes
 thumbnail: "blog/assets/2014-03-07-sensorbayes/header.png"
