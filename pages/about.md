@@ -44,11 +44,7 @@ We are proud to support the charities and organizations that support the communi
 </div>
 
 <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-<a href="https://www.girlscouts.org"  target="_blank"><img class="my-0" src="/assets/images/associations/gsusa_logo.png" alt=""></a>
-</div>
-
-<div class="col-4 col-lg-2 text-center mb-1 mt-1">
-<a href="https://www.scouting.org"  target="_blank"><img class="my-0" src="/assets/images/associations/sbsa_logo.png" alt=""></a>
+<a href=""  target="_blank"><img class="my-0" src="/assets/images/associations/sbsa_logo.png" alt=""></a>
 </div>
 
 <div class="col-4 col-lg-2 text-center mb-1 mt-1">
