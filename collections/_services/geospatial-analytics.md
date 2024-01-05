@@ -1,6 +1,6 @@
 ---
 title: "Geospatial Analytics"
-description: "The power of GIS combined with machine learning and analytics techniques leads to incredibly useful and understandable results that give insight into where to place your most valuable assets."
+description: "The power of GIS combined with machine learning and analytics techniques leads to incredibly useful and understandable results that give insight into where to place your most valuable assets.</br>LOCATION SERVICES</br>LIDAR</br>REMOTE SENSING</br>PHOTOGRAMMETRY"
 date: 2019-10-03
 weight: 1
 fa_icon: "fab fa-codepen"
