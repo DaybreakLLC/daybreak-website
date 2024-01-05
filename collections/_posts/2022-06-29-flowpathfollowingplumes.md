@@ -2,7 +2,7 @@
 layout: post
 title: EnviMetric's New Feature - Flow Path Following Plumes
 description: How we're using digital elevation models to make our groundwater plume models more representative of non-linear flow path conditions.
-date: 2022-06-29
+date: 2023-09-29
 authors: ["Anna Harrington"]
 folder: blog/assets/2022-06-29-flowpathfollowingplumes
 thumbnail: "blog/assets/2022-06-29-flowpathfollowingplumes/header.png"
@@ -13,7 +13,7 @@ categories: ["Machine Learning"]
 ## Introduction
 
 Since 2017, Daybreak (previously Azimuth1) has been funded by the National Science Foundation to build a machine learning technology to be used during site investigation of contaminated groundwater sites.  During the course of this [technology](https://testazimuth1site.com/products/envimetric/)'s development, we’ve spoken with hundreds of environmental engineers, geologists, project managers and property owners in the environmental site investigation and remediation space.
-          
+
 When discussing many contaminated sites across the country, we learned that many professionals work at sites with non-linear predominant groundwater flow direction.  Because so many of our customers wished to be able to ‘warp’ our linear modeling output to better fit their non-linear groundwater flow direction, we decided to build that functionality into our modeling output to streamline their workflow and provide better value.
 
 ## Our Approach
@@ -50,9 +50,3 @@ This new technical development is already available on the EnviMetric out for us
 
 
 **Interested in hearing more from us? [Subscribe](https://www.azimuth1.com/envimetric-insights.html) to our mailing list so you never miss an update!**
-
-
-
-
-
-

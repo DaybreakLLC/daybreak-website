@@ -2,7 +2,7 @@
 layout: post
 title: Comparing Machine Learning and Fate and Transport Models
 description: Tackling some of the most common questions we get about our ML approach in relation to traditional fate and transport modeling applications
-date: 2021-11-11
+date: 2023-8-11
 authors: ["Anna Harrington"]
 folder: blog/assets/2021-11-11-fateandtransport
 thumbnail: "blog/assets/2021-11-11-fateandtransport/header.png"

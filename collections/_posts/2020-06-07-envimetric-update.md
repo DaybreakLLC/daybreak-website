@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: Incorporating site-specific analytical data and machine learning to predict environmental site conditions.
-description: Modeling using previously collected data and the EnviMetric machine learning algorithm to garner new insights for contaminated properties.
-date: 2020-05-06
-author: ryan_velazquez
+description: Daybreak adds five additional states' site remediation data to EnviMetric
+date: 2024-01-10
+author: jason_dalton
 folder: blog/assets/2020-05-06-envimetric-update
 thumbnail: "blog/assets/2020-05-06-envimetric-update/header.png"
 image: "blog/assets/2020-05-06-envimetric-update/header.png"
