@@ -1,6 +1,6 @@
 ---
 title: "DigitalVista"
-description: "DigitalVista is a ruggedized, portable solution for processing drone data into usable information. This quick, on-demand solution is specifically tailored to the needs of first responders, law enforcement, search and rescue, and disaster response teams."
+description: "Turning drone video into actionable geospatial data isn't easy. Many systems require uploading to an unknown cloud system for processing, which doesn't work for Law Enforcement and Governement agencies who need to maintain chain of custody on video data. DigitalVista is a ruggedized, portable solution for processing drone remote sensing or lidar data into usable mapping information. This quick, on-demand solution is specifically tailored to the needs of first responders, law enforcement, search and rescue, and disaster response teams."
 date: 2018-12-20
 weight: 3
 header_transparent: false

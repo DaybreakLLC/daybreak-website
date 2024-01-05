@@ -1,6 +1,6 @@
 ---
 title: "FindSAR"
-description: "FIND is a search and rescue (SAR) mission management tool that combines search theory, task management, resource tracking, and field task mapping."
+description: "FIND is a search and rescue (SAR) mission management tool that combines GIS, imagery, search theory, task management, resource tracking, and field task mapping."
 date: 2018-12-20
 weight: 3
 header_transparent: false

@@ -1,6 +1,6 @@
 ---
 title: "EnviMetric"
-description: "EnviMetric is an environmental contaminant modeling method that estimates the size and shape of a groundwater and soil contamination plume through geospatial AI techniques and a proprietary database of thousands of past contaminated sites from across the US."
+description: "When you're looking for hazardous materials underground, bringing data from sensors, imagery, and facility mapping data is key to prediction. EnviMetric is an environmental contaminant modeling method that estimates the size and shape of a groundwater and soil contamination plume through geospatial AI techniques and a proprietary database of thousands of past contaminated sites from across the US."
 date: 2018-12-20
 weight: 4
 header_transparent: false
@@ -10,7 +10,7 @@ image: "assets/images/services/envimetric.jpg"
 
 ## AI-Powered Site Investigation
 
-Contamination plumes can be extremely difficult to investigate. Creating conceptual site models requires days of field work on-site to collect hydrology, chemistry, and geology data that then feeds into many hours of analysis. 
+Contamination plumes can be extremely difficult to investigate. Creating conceptual site models requires days of field work on-site to collect hydrology, chemistry, and geology data that then feeds into many hours of analysis.
 
 As a result, site models can be expensive to develop. Their use in remediation actions and decisions by regulators is driven by an accurate understanding of how much material is beneath the surface, its concentration, if it is moving, andthe overall footprint of the affected area.
 

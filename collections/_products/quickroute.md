@@ -1,6 +1,6 @@
 ---
 title: "QuickRoute"
-description: "QuickRoute is GPS routing for emergency response vehicles that accounts for official rescue and response vehicle rules and capabilities to get emergency responders to the scene as fast as possible."
+description: "QuickRoute is GPS map routing for emergency response vehicles that accounts for official rescue and response vehicle rules, capabilities, and limitations to get emergency responders to the scene as fast as possible."
 date: 2018-12-20
 weight: 1
 header_transparent: false
