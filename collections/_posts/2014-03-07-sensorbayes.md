@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Bayesian updating for sensor fusion
+description: Sensors provide evidence, not facts. How do we update our understanding of the world when presented with new evidence.  Bayesian statistics!
 date: 2024-01-01
 authors: ["Jason Dalton"]
 folder: blog/assets/2014-03-07-sensorbayes
