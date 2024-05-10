@@ -1,5 +1,5 @@
 ---
-title: "Intelligence Services"
+title: "Intelligence"
 description: "We partner with our intelligence community customers to achieve their vision, solving complex problems, adapt to changing needs, and predict the future.
 <br>
 Daybreak provides intelligence services and advance geospatial intelligence (GeoINT) technologies for open source and all source intelligence interpretation, analysis, and reporting.

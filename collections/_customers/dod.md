@@ -1,5 +1,5 @@
 ---
-title: "Defense Services"
+title: "Defense"
 description: "Daybreak delivers innovation, advanced analytics, together with expertise in Defense operational and mission imperatives.
 <br>
 We hyper-accelerate understanding and decisional quality though geospatial analysis, data analysis, artificial
