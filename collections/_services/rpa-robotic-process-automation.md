@@ -5,8 +5,8 @@ date: 2019-10-03
 weight: 3
 fa_icon: "fas fa-robot"
 # icon: "assets/img/icons/design.svg"
-thumbnail: "assets/images/capabilities/toy_pieces_on_board.jpg"
-image: "assets/images/capabilities/toy_pieces_on_board.jpg"
+thumbnail: "assets/images/capabilities/RPA2.webp"
+image: "assets/images/capabilities/RPA2.webp"
 permalink: "/capabilities/rpa-robotic-process-automation"
 ---
 
