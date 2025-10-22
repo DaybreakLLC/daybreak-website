@@ -5,8 +5,8 @@ date: 2019-10-03
 weight: 2
 fa_icon: "fab fa-codepen"
 # icon: "assets/img/icons/machinelearning.svg"
-thumbnail: "assets/images/capabilities/paper_charts_next_to_laptop.jpg"
-image: "assets/images/capabilities/paper_charts_next_to_laptop.jpg"
+thumbnail: "assets/images/capabilities/data_science.jpg"
+image: "assets/images/capabilities/data_science.jpg"
 permalink: "/capabilities/full-stack-data-science"
 ---
 
