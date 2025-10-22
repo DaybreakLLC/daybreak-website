@@ -5,8 +5,8 @@ date: 2019-10-03
 weight: 4
 fa_icon: "fab fa-codepen"
 # icon: "assets/img/icons/computervision.svg"
-thumbnail: "assets/images/capabilities/corkboard_with_clues.jpg"
-image: "assets/images/capabilities/corkboard_with_clues.jpg"
+thumbnail: "assets/images/capabilities/cintel_analyst.jpg"
+image: "assets/images/capabilities/intel_analyst.jpg"
 permalink: "/capabilities/intelligence-analysis"
 ---
 
