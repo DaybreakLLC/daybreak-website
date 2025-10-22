@@ -5,8 +5,8 @@ date: 2019-10-03
 weight: 3
 fa_icon: "fab fa-codepen"
 # icon: "assets/img/icons/design.svg"
-thumbnail: "assets/images/capabilities/software_dev.jpg"
-image: "assets/images/capabilities/software_dev.jpg"
+thumbnail: "assets/images/capabilities/programmer.jpg"
+image: "assets/images/capabilities/programmer.jpg"
 permalink: "/capabilities/analytical-software-development"
 ---
 
