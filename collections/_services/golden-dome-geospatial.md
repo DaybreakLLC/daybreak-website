@@ -5,8 +5,8 @@ date: 2025-10-03
 weight: 3
 fa_icon: "fas fa-shield-alt"
 # icon: "assets/img/icons/design.svg"
-thumbnail: "assets/images/capabilities/toy_pieces_on_board.jpg"
-image: "assets/images/capabilities/toy_pieces_on_board.jpg"
+thumbnail: "assets/images/capabilities/golden-dome.jpg"
+image: "assets/images/capabilities/golden-dome.jpg"
 permalink: "/capabilities/geospatial-analytics/golden-dome-geospatial"
 ---
 
